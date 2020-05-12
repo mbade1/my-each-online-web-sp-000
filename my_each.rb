@@ -8,7 +8,7 @@ def my_each(collection)
       i += 1
     end
     collection
-  else 
+  else
     puts "No block given."
   end
 end

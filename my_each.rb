@@ -9,6 +9,6 @@ def my_each(collection)
     end
     collection
   else
-    puts "No block given."
+    "No block given."
   end
 end
